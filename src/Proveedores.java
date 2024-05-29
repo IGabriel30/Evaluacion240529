@@ -94,7 +94,6 @@ public class Proveedores implements IFileLectura {
                 else if (i == indexDescripcion) {
                     proveedores.setEmail(valor);
                 }
-                
             }
         }
     }
