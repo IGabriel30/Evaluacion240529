@@ -1,0 +1,6 @@
+EJERCICIO N° 3
+
+1. Migrar los datos del archivo proveedores.csv a la clase Proveedor en java
+2. El programa deberá mostrar los proveedores migrados , haciendo uso de un
+“for” que va recorrer cualquier estructura de datos utilizada para almacenar la
+información de los proveedores.
